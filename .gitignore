@@ -117,6 +117,12 @@ venv.bak/
 # Rope project settings
 .ropeproject
 
+#Mac-specific
+.DS_Store
+
+#Windows specific
+desktop.ini
+
 # mkdocs documentation
 /site
 
@@ -127,3 +133,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#
